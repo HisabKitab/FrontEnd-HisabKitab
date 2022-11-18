@@ -1,0 +1,19 @@
+{
+  "name": "frontend-hisabkitab",
+  "version": "1.0.0",
+  "description": "lets manage the bills all at a place for all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HisabKitab/FrontEnd-HisabKitab.git"
+  },
+  "author": "HisabKitab",
+  "license": "MIT license",
+  "bugs": {
+    "url": "https://github.com/HisabKitab/FrontEnd-HisabKitab/issues"
+  },
+  "homepage": "https://github.com/HisabKitab/FrontEnd-HisabKitab#readme"
+}
