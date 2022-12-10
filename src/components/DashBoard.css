@@ -1,0 +1,75 @@
+.dashboard{
+    display:flex;
+    width:100%;
+    flex-direction: column;
+    height:100vh;
+
+}
+.profiler{
+    width:100%;
+    padding-top:.5rem;
+    padding-bottom:.5rem;
+    
+
+    background:rgba(214, 203, 203, 0.914);
+    display:flex;
+    justify-content: end;
+    align-items:center;
+
+    
+
+}
+.profileWrapper{
+   display:flex;
+   padding-right:.5rem;
+   align-items: center;
+
+}
+.profileImage{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background:rgba(0, 128, 0, 0);
+    height:2rem;
+    width:2rem;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right:10px;
+}
+.profileUserName{
+    font-weight: 700;
+}
+
+.billArea{
+    width:100%;
+    display:flex;
+    background-color:rgb(246, 241, 241);
+    flex:1;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+
+}
+
+.billCard{
+    display:flex;
+    width:80%;
+    background:rgb(255, 255, 255);
+    padding:.5rem;
+    font-size: 1.5rem;
+    margin-top:1rem;
+    padding:1rem;  
+    border-radius: 10px;
+    border:solid 2px rgba(133, 133, 133, 0.743);
+   
+}
+.billNumber{
+ 
+}
+.storeName{
+flex:1;
+text-align: center;
+}
+.amount{
+
+}

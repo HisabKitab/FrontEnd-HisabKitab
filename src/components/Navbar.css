@@ -1,0 +1,30 @@
+.navbar{
+    display:flex;
+    flex-direction: column;
+    /* height:100vh; */
+    /* background:red; */
+    width:auto;
+    font-size: xx-large;
+    background:rgba(228, 223, 223, 0.798);
+    border-right: gray solid 2px;
+
+
+}
+.navBill{
+    flex:1;
+    display:flex;
+    flex-direction: column;
+    /* background:green; */
+    justify-content: center;
+    border-bottom: gray solid 2px;
+    padding:1rem;
+
+}
+.navStore{
+    flex:1;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    padding:1rem;
+
+}
